@@ -1,11 +1,11 @@
- ![banner](img/streetlight.jpg.jpg)
+ ![banner](img/bridge.jpg)
 
- # New header
+ # Change the Header
 
-* List
-* of
-* bullet
-* points
+1. List
+2. of
+3. bullet
+4. points
 
 <p> There is no  bug in this file</p>
 
